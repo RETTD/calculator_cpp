@@ -1,10 +1,7 @@
-//q: i want create simple calculator in c++ with the best practices and solid, dry, kiss principles
-
 #include <iostream>
 #include <string>
 
 using namespace std;
-
 
 class Calculator
 {
@@ -57,5 +54,3 @@ int main()
 }
 
 // Path: main.cpp
-
-//q: i get error: 'undefined reference to 'WinMain''
